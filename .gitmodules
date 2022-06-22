@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ARDL"]
+	path = ARDL
+	url = https://github.com/natsiopoulos/ardl
+	shallow = true
+	registered = true
